@@ -1,0 +1,234 @@
+{
+    "name": "埃吉尔",
+    "group": 3,
+    "rarity": 16,
+    "type": 18,
+    "camp": 4,
+    "AF": "",
+    "attribute": {
+        "armor": 3,
+        "base": [
+            [
+                1385,
+                62,
+                53,
+                38,
+                12,
+                47,
+                0,
+                45,
+                0
+            ],
+            [
+                1723,
+                68,
+                64,
+                46,
+                12,
+                59,
+                0,
+                45,
+                0
+            ],
+            [
+                2398,
+                85,
+                92,
+                65,
+                12,
+                82,
+                0,
+                45,
+                0
+            ],
+            [
+                3412,
+                108,
+                131,
+                93,
+                17,
+                116,
+                0,
+                45,
+                0
+            ]
+        ],
+        "growth": [
+            33775,
+            430,
+            1139,
+            820,
+            270,
+            1023,
+            0,
+            660,
+            0
+        ],
+        "luck": 0,
+        "speed": 26.8,
+        "oil": 16
+    },
+    "container": [
+        {
+            "slots": [
+                2
+            ],
+            "base": 1,
+            "increment": []
+        }
+    ],
+    "weapon": [
+        {
+            "slot": "重巡炮,大口径重巡炮",
+            "base": {
+                "efficiency": 90,
+                "num": 1,
+                "pre": 1
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 1,
+                    "pre": 1
+                },
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 15,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "水面鱼雷",
+            "base": {
+                "efficiency": 100,
+                "num": 1,
+                "pre": 1
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 10,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "防空炮",
+            "base": {
+                "efficiency": 100,
+                "num": 1,
+                "pre": 1
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 10,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "设备"
+        },
+        {
+            "slot": "设备"
+        },
+        {
+            "slot": "特殊副炮",
+            "base": {
+                "efficiency": 45,
+                "num": 2,
+                "pre": 2
+            }
+        }
+    ]
+}

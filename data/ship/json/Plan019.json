@@ -1,0 +1,235 @@
+{
+    "name": "白龙",
+    "group": 3,
+    "rarity": 16,
+    "type": 7,
+    "camp": 3,
+    "AF": "鹫",
+    "attribute": {
+        "armor": 3,
+        "base": [
+            [
+                1417,
+                46,
+                0,
+                0,
+                14,
+                61,
+                88,
+                32,
+                0
+            ],
+            [
+                1763,
+                51,
+                0,
+                0,
+                14,
+                76,
+                107,
+                32,
+                0
+            ],
+            [
+                2454,
+                63,
+                0,
+                0,
+                14,
+                106,
+                152,
+                32,
+                0
+            ],
+            [
+                3491,
+                81,
+                0,
+                0,
+                14,
+                151,
+                217,
+                32,
+                0
+            ]
+        ],
+        "growth": [
+            36893,
+            321,
+            0,
+            0,
+            338,
+            1295,
+            1770,
+            499,
+            0
+        ],
+        "luck": 0,
+        "speed": 34.5,
+        "oil": 17
+    },
+    "container": [
+        {
+            "slots": [
+                1,
+                2,
+                3
+            ],
+            "base": 1,
+            "increment": [
+                0,
+                0,
+                0,
+                1,
+                0,
+                0
+            ]
+        }
+    ],
+    "weapon": [
+        {
+            "slot": "战斗机",
+            "base": {
+                "efficiency": 110,
+                "num": 1,
+                "pre": 0
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 1,
+                    "pre": 0
+                },
+                {
+                    "slot": "鱼雷机",
+                    "efficiency": 5,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 1,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "轰炸机",
+            "base": {
+                "efficiency": 125,
+                "num": 1,
+                "pre": 0
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 10,
+                    "num": 2,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 10,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 1,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "鱼雷机",
+            "base": {
+                "efficiency": 120,
+                "num": 1,
+                "pre": 0
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 1,
+                    "pre": 0
+                },
+                {
+                    "slot": "轰炸机",
+                    "efficiency": 5,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "设备"
+        },
+        {
+            "slot": "设备"
+        }
+    ]
+}

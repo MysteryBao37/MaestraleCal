@@ -1,0 +1,218 @@
+{
+    "name": "吾妻",
+    "group": 3,
+    "rarity": 16,
+    "type": 18,
+    "camp": 3,
+    "AF": "猉",
+    "attribute": {
+        "armor": 2,
+        "base": [
+            [
+                1291,
+                62,
+                58,
+                0,
+                11,
+                42,
+                0,
+                43,
+                0
+            ],
+            [
+                1606,
+                69,
+                70,
+                0,
+                11,
+                52,
+                0,
+                43,
+                0
+            ],
+            [
+                2235,
+                85,
+                100,
+                0,
+                11,
+                73,
+                0,
+                43,
+                0
+            ],
+            [
+                3180,
+                109,
+                143,
+                0,
+                16,
+                104,
+                0,
+                43,
+                0
+            ]
+        ],
+        "growth": [
+            33068,
+            433,
+            1237,
+            0,
+            263,
+            919,
+            0,
+            636,
+            0
+        ],
+        "luck": 0,
+        "speed": 27.2,
+        "oil": 16
+    },
+    "container": [],
+    "weapon": [
+        {
+            "slot": "重巡炮,大口径重巡炮",
+            "base": {
+                "efficiency": 70,
+                "num": 1,
+                "pre": 1
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 1,
+                    "pre": 1
+                },
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 15,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "驱逐炮",
+            "base": {
+                "efficiency": 50,
+                "num": 1,
+                "pre": 1
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 10,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "防空炮",
+            "base": {
+                "efficiency": 100,
+                "num": 1,
+                "pre": 1
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 10,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "设备"
+        },
+        {
+            "slot": "设备"
+        }
+    ]
+}

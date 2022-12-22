@@ -1,0 +1,178 @@
+{
+    "name": "武藏",
+    "group": 1,
+    "rarity": 6,
+    "type": 5,
+    "camp": 3,
+    "AF": "鳄",
+    "attribute": {
+        "armor": 3,
+        "base": [
+            [
+                1819,
+                57,
+                91,
+                0,
+                7,
+                43,
+                0,
+                22,
+                0
+            ],
+            [
+                2263,
+                57,
+                114,
+                0,
+                7,
+                53,
+                0,
+                22,
+                0
+            ],
+            [
+                3150,
+                57,
+                159,
+                0,
+                7,
+                74,
+                0,
+                22,
+                0
+            ],
+            [
+                4480,
+                57,
+                226,
+                0,
+                7,
+                106,
+                0,
+                22,
+                0
+            ]
+        ],
+        "growth": [
+            48455,
+            394,
+            1091,
+            0,
+            234,
+            933,
+            0,
+            388,
+            0
+        ],
+        "enhance": [
+            91,
+            0,
+            0,
+            42
+        ],
+        "luck": 33,
+        "speed": 26.5,
+        "oil": 17
+    },
+    "container": [
+        {
+            "slots": [
+                1
+            ],
+            "base": 1,
+            "increment": []
+        }
+    ],
+    "weapon": [
+        {
+            "slot": "战列炮",
+            "base": {
+                "efficiency": 125,
+                "num": 1,
+                "pre": 0
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 1,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 10,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 15,
+                    "num": 1,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "驱逐炮,轻巡炮",
+            "base": {
+                "efficiency": 220,
+                "num": 1,
+                "pre": 1
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 2,
+                    "pre": 2
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "防空炮",
+            "base": {
+                "efficiency": 100,
+                "num": 1,
+                "pre": 1
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "设备"
+        },
+        {
+            "slot": "设备"
+        }
+    ]
+}

@@ -1,0 +1,184 @@
+{
+    "name": "信浓",
+    "group": 1,
+    "rarity": 6,
+    "type": 7,
+    "camp": 3,
+    "AF": "鵗",
+    "attribute": {
+        "armor": 3,
+        "base": [
+            [
+                1462,
+                46,
+                0,
+                0,
+                11,
+                60,
+                84,
+                27,
+                0
+            ],
+            [
+                1819,
+                46,
+                0,
+                0,
+                11,
+                75,
+                105,
+                27,
+                0
+            ],
+            [
+                2532,
+                46,
+                0,
+                0,
+                11,
+                104,
+                146,
+                27,
+                0
+            ],
+            [
+                3601,
+                46,
+                0,
+                0,
+                11,
+                148,
+                208,
+                27,
+                0
+            ]
+        ],
+        "growth": [
+            38502,
+            322,
+            0,
+            0,
+            297,
+            1276,
+            1024,
+            398,
+            0
+        ],
+        "enhance": [
+            0,
+            0,
+            83,
+            35
+        ],
+        "luck": 32,
+        "speed": 28,
+        "oil": 15
+    },
+    "container": [
+        {
+            "slots": [
+                1,
+                2,
+                3
+            ],
+            "base": 1,
+            "increment": [
+                0,
+                1,
+                0
+            ]
+        }
+    ],
+    "weapon": [
+        {
+            "slot": "战斗机",
+            "base": {
+                "efficiency": 120,
+                "num": 1,
+                "pre": 0
+            },
+            "increment": [
+                {
+                    "slot": "轰炸机,鱼雷机",
+                    "efficiency": 0,
+                    "num": 1,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "轰炸机",
+            "base": {
+                "efficiency": 120,
+                "num": 1,
+                "pre": 0
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 1,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 1,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "鱼雷机",
+            "base": {
+                "efficiency": 125,
+                "num": 1,
+                "pre": 0
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 10,
+                    "num": 2,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 1,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "设备"
+        },
+        {
+            "slot": "设备"
+        }
+    ]
+}

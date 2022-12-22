@@ -1,0 +1,182 @@
+{
+    "name": "岛风",
+    "group": 1,
+    "rarity": 6,
+    "type": 1,
+    "camp": 3,
+    "AF": "芒",
+    "attribute": {
+        "armor": 1,
+        "base": [
+            [
+                381,
+                82,
+                14,
+                116,
+                86,
+                30,
+                0,
+                74,
+                52
+            ],
+            [
+                494,
+                82,
+                18,
+                145,
+                86,
+                37,
+                0,
+                74,
+                65
+            ],
+            [
+                660,
+                82,
+                25,
+                202,
+                86,
+                52,
+                0,
+                74,
+                90
+            ],
+            [
+                938,
+                82,
+                35,
+                288,
+                86,
+                74,
+                0,
+                74,
+                129
+            ]
+        ],
+        "growth": [
+            10850,
+            574,
+            195,
+            1389,
+            1542,
+            659,
+            0,
+            1138,
+            586
+        ],
+        "enhance": [
+            14,
+            115,
+            0,
+            62
+        ],
+        "luck": 41,
+        "speed": 48.72,
+        "oil": 12
+    },
+    "container": [
+        {
+            "slots": [
+                2
+            ],
+            "base": 1,
+            "increment": [
+                0,
+                1,
+                0
+            ]
+        }
+    ],
+    "weapon": [
+        {
+            "slot": "驱逐炮",
+            "base": {
+                "efficiency": 80,
+                "num": 1,
+                "pre": 1
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "水面鱼雷",
+            "base": {
+                "efficiency": 150,
+                "num": 1,
+                "pre": 0
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 10,
+                    "num": 0,
+                    "pre": 1
+                },
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 0,
+                    "pre": 1
+                }
+            ]
+        },
+        {
+            "slot": "防空炮",
+            "base": {
+                "efficiency": 85,
+                "num": 1,
+                "pre": 1
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "设备"
+        },
+        {
+            "slot": "设备"
+        }
+    ]
+}

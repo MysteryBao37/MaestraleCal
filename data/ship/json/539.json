@@ -1,0 +1,178 @@
+{
+    "name": "喀琅施塔得",
+    "group": 1,
+    "rarity": 6,
+    "type": 18,
+    "camp": 7,
+    "AF": "",
+    "attribute": {
+        "armor": 2,
+        "base": [
+            [
+                1247,
+                62,
+                54,
+                0,
+                11,
+                42,
+                0,
+                43,
+                0
+            ],
+            [
+                1551,
+                62,
+                67,
+                0,
+                11,
+                52,
+                0,
+                43,
+                0
+            ],
+            [
+                2159,
+                62,
+                94,
+                0,
+                11,
+                73,
+                0,
+                43,
+                0
+            ],
+            [
+                3072,
+                62,
+                134,
+                0,
+                11,
+                104,
+                0,
+                43,
+                0
+            ]
+        ],
+        "growth": [
+            31949,
+            434,
+            729,
+            0,
+            211,
+            919,
+            0,
+            618,
+            0
+        ],
+        "enhance": [
+            57,
+            0,
+            0,
+            47
+        ],
+        "luck": 50,
+        "speed": 20.8,
+        "oil": 15
+    },
+    "container": [],
+    "weapon": [
+        {
+            "slot": "重巡炮,大口径重巡炮",
+            "base": {
+                "efficiency": 90,
+                "num": 1,
+                "pre": 1
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 1,
+                    "pre": 1
+                },
+                {
+                    "slot": "",
+                    "efficiency": 15,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "轻巡炮",
+            "base": {
+                "efficiency": 45,
+                "num": 1,
+                "pre": 1
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 10,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "防空炮",
+            "base": {
+                "efficiency": 100,
+                "num": 1,
+                "pre": 1
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "设备"
+        },
+        {
+            "slot": "设备"
+        },
+        {
+            "slot": "特殊副炮",
+            "base": {
+                "efficiency": 50,
+                "num": 1,
+                "pre": 1
+            }
+        }
+    ]
+}

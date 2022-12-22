@@ -1,0 +1,178 @@
+{
+    "name": "前卫",
+    "group": 1,
+    "rarity": 6,
+    "type": 5,
+    "camp": 2,
+    "AF": "",
+    "attribute": {
+        "armor": 3,
+        "base": [
+            [
+                1585,
+                65,
+                81,
+                0,
+                8,
+                82,
+                0,
+                25,
+                0
+            ],
+            [
+                1972,
+                65,
+                101,
+                0,
+                8,
+                102,
+                0,
+                25,
+                0
+            ],
+            [
+                2745,
+                65,
+                148,
+                0,
+                8,
+                142,
+                0,
+                25,
+                0
+            ],
+            [
+                3905,
+                65,
+                201,
+                0,
+                8,
+                203,
+                0,
+                25,
+                0
+            ]
+        ],
+        "growth": [
+            42474,
+            450,
+            948,
+            0,
+            234,
+            1675,
+            0,
+            412,
+            0
+        ],
+        "enhance": [
+            80,
+            0,
+            0,
+            48
+        ],
+        "luck": 52,
+        "speed": 30,
+        "oil": 17
+    },
+    "container": [
+        {
+            "slots": [
+                1
+            ],
+            "base": 1,
+            "increment": []
+        }
+    ],
+    "weapon": [
+        {
+            "slot": "战列炮",
+            "base": {
+                "efficiency": 115,
+                "num": 1,
+                "pre": 0
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 1,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 10,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 15,
+                    "num": 1,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "驱逐炮,轻巡炮",
+            "base": {
+                "efficiency": 180,
+                "num": 1,
+                "pre": 1
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 2,
+                    "pre": 2
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "防空炮",
+            "base": {
+                "efficiency": 130,
+                "num": 1,
+                "pre": 1
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "设备"
+        },
+        {
+            "slot": "设备"
+        }
+    ]
+}

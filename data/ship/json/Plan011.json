@@ -1,0 +1,218 @@
+{
+    "name": "腓特烈大帝",
+    "group": 3,
+    "rarity": 16,
+    "type": 5,
+    "camp": 4,
+    "AF": "",
+    "attribute": {
+        "armor": 3,
+        "base": [
+            [
+                1634,
+                58,
+                87,
+                0,
+                8,
+                45,
+                0,
+                22,
+                0
+            ],
+            [
+                2034,
+                64,
+                106,
+                0,
+                8,
+                56,
+                0,
+                22,
+                0
+            ],
+            [
+                2831,
+                79,
+                151,
+                0,
+                8,
+                78,
+                0,
+                22,
+                0
+            ],
+            [
+                4026,
+                101,
+                215,
+                0,
+                8,
+                111,
+                0,
+                22,
+                0
+            ]
+        ],
+        "growth": [
+            44543,
+            402,
+            1757,
+            0,
+            149,
+            982,
+            0,
+            338,
+            0
+        ],
+        "luck": 0,
+        "speed": 30,
+        "oil": 19
+    },
+    "container": [],
+    "weapon": [
+        {
+            "slot": "战列炮",
+            "base": {
+                "efficiency": 120,
+                "num": 1,
+                "pre": 0
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 1,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 10,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 15,
+                    "num": 1,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "轻巡炮,驱逐炮",
+            "base": {
+                "efficiency": 220,
+                "num": 1,
+                "pre": 1
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 2,
+                    "pre": 2
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "防空炮",
+            "base": {
+                "efficiency": 90,
+                "num": 1,
+                "pre": 1
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 10,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "设备"
+        },
+        {
+            "slot": "设备"
+        }
+    ]
+}

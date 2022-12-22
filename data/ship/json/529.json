@@ -1,0 +1,178 @@
+{
+    "name": "乌尔里希·冯·胡滕",
+    "group": 1,
+    "rarity": 6,
+    "type": 5,
+    "camp": 4,
+    "AF": "",
+    "attribute": {
+        "armor": 3,
+        "base": [
+            [
+                1573,
+                65,
+                86,
+                0,
+                8,
+                47,
+                0,
+                23,
+                0
+            ],
+            [
+                1957,
+                65,
+                107,
+                0,
+                8,
+                59,
+                0,
+                23,
+                0
+            ],
+            [
+                2724,
+                65,
+                150,
+                0,
+                8,
+                82,
+                0,
+                23,
+                0
+            ],
+            [
+                3874,
+                65,
+                214,
+                0,
+                8,
+                116,
+                0,
+                23,
+                0
+            ]
+        ],
+        "growth": [
+            42868,
+            454,
+            1046,
+            0,
+            150,
+            1024,
+            0,
+            345,
+            0
+        ],
+        "enhance": [
+            85,
+            0,
+            0,
+            49
+        ],
+        "luck": 50,
+        "speed": 30,
+        "oil": 17
+    },
+    "container": [
+        {
+            "slots": [
+                1
+            ],
+            "base": 1,
+            "increment": []
+        }
+    ],
+    "weapon": [
+        {
+            "slot": "战列炮",
+            "base": {
+                "efficiency": 125,
+                "num": 1,
+                "pre": 0
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 5,
+                    "num": 1,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 10,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 15,
+                    "num": 1,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "驱逐炮,轻巡炮",
+            "base": {
+                "efficiency": 210,
+                "num": 1,
+                "pre": 1
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 2,
+                    "pre": 2
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "防空炮",
+            "base": {
+                "efficiency": 90,
+                "num": 1,
+                "pre": 1
+            },
+            "increment": [
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                },
+                {
+                    "slot": "",
+                    "efficiency": 0,
+                    "num": 0,
+                    "pre": 0
+                }
+            ]
+        },
+        {
+            "slot": "设备"
+        },
+        {
+            "slot": "设备"
+        }
+    ]
+}
